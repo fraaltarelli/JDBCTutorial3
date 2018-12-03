@@ -3,27 +3,27 @@
   <display-name>JDBCTutorialWebApp2</display-name>
   <servlet>
     <servlet-name>Continenti</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.Continenti</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.Continenti</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>Nations</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.Nazioni</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.Nazioni</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>Citta</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.Citta</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.Citta</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>SalvaCitta</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.SaveCitta</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.SaveCitta</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>CercaCittaServlet</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.CercaCitta</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.CercaCitta</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>CreaCitta</servlet-name>
-    <servlet-class>it.objectmethod.jdbctutorial3.CreaCitta</servlet-class>
+    <servlet-class>it.objectmethod.jdbctutorial3.servlets.CreaCitta</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Continenti</servlet-name>
