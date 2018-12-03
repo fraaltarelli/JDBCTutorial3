@@ -1,4 +1,4 @@
-package it.objectmethod.jdbctutorial3;
+package it.objectmethod.jdbctutorial3.servlets;
 
 import java.io.IOException;
 import java.util.List;
